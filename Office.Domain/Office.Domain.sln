@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Office.Domain", "Office.Domain.csproj", "{B3609050-DBE2-4EEC-95A1-BB6998A47EA6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Office.DataLayer", "..\Office.DataLayer\Office.DataLayer.csproj", "{C418795B-D5DF-4B21-8E0C-D467EE140E08}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Office.ChildPersonnel.Endpoin", "..\Office.ChildPersonnel.Endpoin\Office.ChildPersonnel.Endpoin.csproj", "{33517B29-D089-47D3-BF5B-30E784139D4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Office.Organazation.Endpoint", "..\Office.Organazation.Endpoint\Office.Organazation.Endpoint.csproj", "{4D2AA011-7D8B-4FDB-AE3C-5E0334983DFB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Office.PersonnelMainOffice.Endpoint", "..\Office.PersonnelMainOffice.Endpoint\Office.PersonnelMainOffice.Endpoint.csproj", "{3C9E7B17-5F3D-4311-A6B6-C8B2AC778398}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Office.Permission.Endpoint", "..\Office.Permission.Endpoint\Office.Permission.Endpoint.csproj", "{6BB11A52-AB01-45F6-BD57-F42A1905AF24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Office.Personnel.Endpoint", "..\Office.Personnel.Endpoint\Office.Personnel.Endpoint.csproj", "{7D9D118F-0BE3-46FF-94D3-F17CBF876B4C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Office.Console.Endpoint", "Office.Console.Endpoint", "{38D8C096-3EA5-4409-A6A3-8369F41F0FCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Office.Infrastructure", "Office.Infrastructure", "{D7A14959-68DA-43CB-868D-20FE7B31CF2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Office.api", "Office.api", "{ACDC4AA4-22D2-4697-B433-7C2B5D942839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Office.Api", "..\Office.Api\Office.Api.csproj", "{00C5736D-F2A2-4F38-9FFB-65C81EB6809C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3609050-DBE2-4EEC-95A1-BB6998A47EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3609050-DBE2-4EEC-95A1-BB6998A47EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3609050-DBE2-4EEC-95A1-BB6998A47EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3609050-DBE2-4EEC-95A1-BB6998A47EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C418795B-D5DF-4B21-8E0C-D467EE140E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C418795B-D5DF-4B21-8E0C-D467EE140E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C418795B-D5DF-4B21-8E0C-D467EE140E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C418795B-D5DF-4B21-8E0C-D467EE140E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33517B29-D089-47D3-BF5B-30E784139D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33517B29-D089-47D3-BF5B-30E784139D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33517B29-D089-47D3-BF5B-30E784139D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33517B29-D089-47D3-BF5B-30E784139D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2AA011-7D8B-4FDB-AE3C-5E0334983DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2AA011-7D8B-4FDB-AE3C-5E0334983DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2AA011-7D8B-4FDB-AE3C-5E0334983DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2AA011-7D8B-4FDB-AE3C-5E0334983DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9E7B17-5F3D-4311-A6B6-C8B2AC778398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9E7B17-5F3D-4311-A6B6-C8B2AC778398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9E7B17-5F3D-4311-A6B6-C8B2AC778398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9E7B17-5F3D-4311-A6B6-C8B2AC778398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BB11A52-AB01-45F6-BD57-F42A1905AF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB11A52-AB01-45F6-BD57-F42A1905AF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB11A52-AB01-45F6-BD57-F42A1905AF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB11A52-AB01-45F6-BD57-F42A1905AF24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9D118F-0BE3-46FF-94D3-F17CBF876B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9D118F-0BE3-46FF-94D3-F17CBF876B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9D118F-0BE3-46FF-94D3-F17CBF876B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9D118F-0BE3-46FF-94D3-F17CBF876B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C5736D-F2A2-4F38-9FFB-65C81EB6809C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C5736D-F2A2-4F38-9FFB-65C81EB6809C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C5736D-F2A2-4F38-9FFB-65C81EB6809C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C5736D-F2A2-4F38-9FFB-65C81EB6809C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B3609050-DBE2-4EEC-95A1-BB6998A47EA6} = {38D8C096-3EA5-4409-A6A3-8369F41F0FCE}
+		{C418795B-D5DF-4B21-8E0C-D467EE140E08} = {D7A14959-68DA-43CB-868D-20FE7B31CF2D}
+		{33517B29-D089-47D3-BF5B-30E784139D4F} = {38D8C096-3EA5-4409-A6A3-8369F41F0FCE}
+		{4D2AA011-7D8B-4FDB-AE3C-5E0334983DFB} = {38D8C096-3EA5-4409-A6A3-8369F41F0FCE}
+		{3C9E7B17-5F3D-4311-A6B6-C8B2AC778398} = {38D8C096-3EA5-4409-A6A3-8369F41F0FCE}
+		{6BB11A52-AB01-45F6-BD57-F42A1905AF24} = {38D8C096-3EA5-4409-A6A3-8369F41F0FCE}
+		{7D9D118F-0BE3-46FF-94D3-F17CBF876B4C} = {38D8C096-3EA5-4409-A6A3-8369F41F0FCE}
+		{00C5736D-F2A2-4F38-9FFB-65C81EB6809C} = {ACDC4AA4-22D2-4697-B433-7C2B5D942839}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {017541D4-AFF6-4459-A9FC-22E80F56E268}
+	EndGlobalSection
+EndGlobal

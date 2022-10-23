@@ -1,0 +1,131 @@
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.ChildPersonnel.Endpoin.exe
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.ChildPersonnel.Endpoin.deps.json
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.ChildPersonnel.Endpoin.runtimeconfig.json
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.ChildPersonnel.Endpoin.runtimeconfig.dev.json
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.ChildPersonnel.Endpoin.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\ref\Office.ChildPersonnel.Endpoin.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.ChildPersonnel.Endpoin.pdb
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Humanizer.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.DataLayer.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.DataLayer.pdb
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.csproj.AssemblyReference.cache
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.AssemblyInfoInputs.cache
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.AssemblyInfo.cs
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.csproj.CoreCompileInputs.cache
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.csproj.CopyComplete
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\ref\Office.ChildPersonnel.Endpoin.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.pdb
+D:\Another Doc\visual studio 2019 project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.genruntimeconfig.cache
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.ChildPersonnel.Endpoin.exe
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.ChildPersonnel.Endpoin.deps.json
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.ChildPersonnel.Endpoin.runtimeconfig.json
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.ChildPersonnel.Endpoin.runtimeconfig.dev.json
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.ChildPersonnel.Endpoin.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\ref\Office.ChildPersonnel.Endpoin.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.ChildPersonnel.Endpoin.pdb
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Humanizer.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\System.Drawing.Common.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\System.Security.Permissions.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\System.Windows.Extensions.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.DataLayer.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\bin\Debug\net5.0\Office.DataLayer.pdb
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.AssemblyInfoInputs.cache
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.AssemblyInfo.cs
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.csproj.CopyComplete
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\ref\Office.ChildPersonnel.Endpoin.dll
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.pdb
+E:\Visual Studio 2022 Project\Office\Office.ChildPersonnel.Endpoin\obj\Debug\net5.0\Office.ChildPersonnel.Endpoin.genruntimeconfig.cache
