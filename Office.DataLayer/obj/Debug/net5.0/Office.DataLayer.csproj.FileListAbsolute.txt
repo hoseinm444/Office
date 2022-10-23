@@ -1,0 +1,43 @@
+D:\Another Doc\visual studio 2019 project\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.deps.json
+D:\Another Doc\visual studio 2019 project\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.runtimeconfig.json
+D:\Another Doc\visual studio 2019 project\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.runtimeconfig.dev.json
+D:\Another Doc\visual studio 2019 project\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.dll
+D:\Another Doc\visual studio 2019 project\Office.DataLayer\bin\Debug\net5.0\ref\Office.DataLayer.dll
+D:\Another Doc\visual studio 2019 project\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.pdb
+D:\Another Doc\visual studio 2019 project\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Another Doc\visual studio 2019 project\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.AssemblyInfoInputs.cache
+D:\Another Doc\visual studio 2019 project\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.AssemblyInfo.cs
+D:\Another Doc\visual studio 2019 project\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.csproj.CoreCompileInputs.cache
+D:\Another Doc\visual studio 2019 project\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.dll
+D:\Another Doc\visual studio 2019 project\Office.DataLayer\obj\Debug\net5.0\ref\Office.DataLayer.dll
+D:\Another Doc\visual studio 2019 project\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.pdb
+D:\Another Doc\visual studio 2019 project\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.genruntimeconfig.cache
+D:\Another Doc\visual studio 2019 project\Office\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.deps.json
+D:\Another Doc\visual studio 2019 project\Office\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.runtimeconfig.json
+D:\Another Doc\visual studio 2019 project\Office\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.runtimeconfig.dev.json
+D:\Another Doc\visual studio 2019 project\Office\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.DataLayer\bin\Debug\net5.0\ref\Office.DataLayer.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.pdb
+D:\Another Doc\visual studio 2019 project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Another Doc\visual studio 2019 project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.AssemblyInfoInputs.cache
+D:\Another Doc\visual studio 2019 project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.AssemblyInfo.cs
+D:\Another Doc\visual studio 2019 project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.csproj.CoreCompileInputs.cache
+D:\Another Doc\visual studio 2019 project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.DataLayer\obj\Debug\net5.0\ref\Office.DataLayer.dll
+D:\Another Doc\visual studio 2019 project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.pdb
+D:\Another Doc\visual studio 2019 project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.genruntimeconfig.cache
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.deps.json
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.runtimeconfig.json
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.runtimeconfig.dev.json
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.dll
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\bin\Debug\net5.0\ref\Office.DataLayer.dll
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\bin\Debug\net5.0\Office.DataLayer.pdb
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.AssemblyInfoInputs.cache
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.AssemblyInfo.cs
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.dll
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\obj\Debug\net5.0\ref\Office.DataLayer.dll
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.pdb
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.genruntimeconfig.cache
+E:\Visual Studio 2022 Project\Office\Office.DataLayer\obj\Debug\net5.0\Office.DataLayer.csproj.AssemblyReference.cache
